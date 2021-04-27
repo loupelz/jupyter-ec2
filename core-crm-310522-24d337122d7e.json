@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "core-crm-310522",
+  "private_key_id": "24d337122d7eb28ac2e69349c05c12b210fb5d34",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfPUVK/HyLsQzC\n5Y20wFBLvRw0GUlGcUebpqpE9537zphPwYv2RUIRQAVevMpmKavpOnWFhaGh6i+p\nNF5iemZvzMIX2IP9yoz/AwMGK/C4rybnsL57fsBESZYZU08S+0dM9ERJyAIBWTwf\nzNy6IsaBYex2bKMk2MNMiF/nO2BlhipDxMW/ILKkCu65dMUAi1b95+lNKSfx7F1V\neNXCgoVOPBHam37xQFH31iVmPkNLbqpQRTw7ppDbyXgvaBcp3qB8GU99IezmeKI/\nNzF9CgJjBGI2QSMr8Zx06t+EOiqc1TeoOa4JKoa23g60xBBAhVbjDIUruKA+Qw8N\n/HnkgQDNAgMBAAECggEAEv5S6ovNKzhWBlUtHtclfLM0zv4JIG7YlLc/bfR/Eo7k\n2faDBD/kjnwtZ8xq896ak7oWVHPJALAXOT5215Yz67fnmsKHk9j6ElzAmpbZIp45\nrL8HKWHH+x0v2xt1vhTcv1APaSGDI7gKFNzxov4M4VfVxZZVq0pzmQhXMBSD/fff\nfM2O4Yk6Oq2ery6qDf8B5Wy2tWV2wcfk2l+ojIyKZ9+7MSBvz/UcR5xANMpN5+/O\nzDbq01N8XQf/JNBRQhFfY4Sg1UEbj0CoeZLyPIlOorMKoSlNLJs8GP+WdgD8ZjZf\nxWilhCa8jD4agx1FtvItPsGBRazcxWJZ5OFYRtrKfQKBgQDZWswFdCd12G3pHKG0\n2ToeyvSIyFkf7vbzL1PvVvQ8dETwxEgGoEJZU3cSvr/77vXwRkrSsP9yhygj2d/g\ngo85f5ui6C+7M517eMVbgZ15eOXZc4BBYp/o4UIT/dADKGLVeAJOEYlLgXwWFz8T\nj5QOzp31L6BzNPOzlGUcOFQcfwKBgQC7jUXJly1hvU6TbD7/Gjcv/2IyHBNCn98G\ntr9hWoX3wEC24uwM2oIbM5lGKtVV/f/sgTHByuV7phDE3clAPIb+0JtEkwxuqm6x\n+/FmY9fZHfBhQjcgzHt/wpEBDO74rr9o+XqUHEzx4kbc5wP+a3PQOF2puDvbnSsY\nTIVIgpTsswKBgDU10TSUlwR2k5G5/Kx1cZEQRoUl5wu2SKaIM5goRWp3XFlE9A0L\nNrL/h+sC36UhfvvveWnTAvZauCzurawcyktdPhDHnsfJfwg3LLmWJaMTQdHWQNPA\n/TzZyH90Z3QecvOniYjrKh1d+a6+yiZTw/9L/ceEfVc242JXNdmOwKipAoGBAK8T\nz8PBphGJYGJqN9x3onDh286fOrOE/fMMgVbl5A1EoKSY7HWLPM0bu8cukPu3IkKq\nz8HyH4rvmNPNneKjHfmcznSTOJXN74uiftRv+7yoIA8Ket/ZQqge/rGWWzY2GmRq\nDy1XxdQ+wJvR436K3A/Rrk2St/3ol6QVOo5Xp6HVAoGAQPUn5N9z314s/otSYbrY\n2kqdNAnYLCVvMvkC2JYYajvHOk0K1UQR4OGrv4+DURJgm4gXDjgwlfjlTTRH8jEw\nPe8bwow8lEWd4v5v5zHpiH/gyY9Erawtuo+A/RUArlw6M9NU8fvfwtH51IQhrW6l\nhiETY9mggWqJG0XAjyoV6+4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jupyter-crm@core-crm-310522.iam.gserviceaccount.com",
+  "client_id": "116075803907362671672",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jupyter-crm%40core-crm-310522.iam.gserviceaccount.com"
+}
